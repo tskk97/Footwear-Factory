@@ -1,0 +1,9 @@
+.brands .card{
+    width: 90%;
+}
+.brands .card:hover{
+    padding: 0 5px !important;
+}
+.brand .card{
+    width: 90%;
+}
